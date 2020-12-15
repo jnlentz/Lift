@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lift</string>
+    <string name="name">Name:</string>
+    <string name="reps">Repetitions:</string>
+    <string name="sets">Sets:</string>
+    <string name="weight">Weight:</string>
+    <string name="increment">Increment:</string>
+    <string name="interval">Rest interval:</string>
+</resources>
